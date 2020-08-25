@@ -5,7 +5,7 @@ branches:
 projects:
   AntiGamingChair:
     path: ""
-    icon: "icon.jfif"
+    icon: "icon.png"
     lint:
       phpstan: false
 ...
