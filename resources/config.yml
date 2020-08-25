@@ -1,0 +1,52 @@
+---
+
+# AntiGamingChair Best PVP AntiCheat by Inaayat
+
+# Enable Reach AntiCheat
+Reach: true
+
+# Put the Max Reach Distance
+ReachDistance: 5
+
+# Kick the player for Reach?
+ReachKick: true
+
+# ReachKick Message
+# Use § for color, use {distance} for the reach distance and use \n to go to another line.
+ReachKickMessage: "§8You have been §ckicked §8for using Reach\n§cDistance:§4 {distance}"
+
+# Ban the player for reach?
+ReachBan: false
+
+
+
+# Enable Fly AntiCheat
+Fly: true
+
+# Kick the player for Fly?
+FlyKick: true
+
+# FlyKick Message
+# Use § for color and use \n to go to another line.
+FlyKickMessage: "§8You have been §ckicked §8for using Fly."
+
+# Ban the player for fly.  Warning: Not recommended?
+FlyBan: false
+
+
+# Enable Autoclicker AntiCheat
+Autoclicker: true
+
+# Max CPS for Autoclicker
+AutoclickerMax: 20
+
+# Kick the player for Autoclicker?
+AutoclickerKick: true
+
+# AutoclickerKick Message
+# Use § for color, use {cps} for the autoclicker cps and use \n to go to another line.
+AutoclickerKickMessage: "§8You have been §ckicked §8for using Autoclicker\n§cCPS:§4 {cps}"
+
+# Ban the player for Autoclicker.
+AutoclickerBan: false
+...
